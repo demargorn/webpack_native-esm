@@ -1,16 +1,16 @@
 {
-  "name": "webpack_native-esm",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "live-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "demargorn",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "live-server": "^1.2.2"
-  }
+   "name": "webpack_native-esm",
+   "version": "1.0.0",
+   "main": "./src/app.js",
+   "scripts": {
+      "start": "live-server",
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "keywords": [],
+   "author": "demargorn",
+   "license": "ISC",
+   "description": "",
+   "devDependencies": {
+      "live-server": "^1.2.2"
+   }
 }
